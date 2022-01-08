@@ -1,0 +1,20 @@
+{
+    "commands":
+    [
+        {
+            "command":"example1",
+            "answers":[
+                "answer 1",
+                "answer 2"
+            ]
+        },
+        
+        {
+            "command":"example2",
+            "answers":[
+                "hello",
+                "world"
+            ]
+        }
+    ]
+}
